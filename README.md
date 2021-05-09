@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @webdev402
+- 👀 I’m interested in web development 
+- 🌱 I’m currently learning JavaScript, TypeScript, React, NodeJS
